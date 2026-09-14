@@ -1,0 +1,10 @@
+{
+  "description": "An accessible cognitive gaming and memory aid app designed for elderly dementia patients in Northeast India to support mental health with simplicity and warmth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
